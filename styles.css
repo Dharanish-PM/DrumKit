@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background-color:  #283149;
+}
+h1{
+font-size: 5rem;
+color: crimson;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-shadow: 5px 2px #fff;
+}
+.w{
+    background: url(./images/kick.png);
+    background-size: cover;
+}
+.a{
+
+    background: url(./images/crash.png);
+    background-size: cover;
+}
+.s{
+    background: url(./images/snare.png);
+    background-size: cover;
+}
+.d{
+    background: url(./images/tom1.png);
+    background-size: cover;
+}
+.j{
+    background: url(./images/tom2.png);
+    background-size: cover;
+}
+.k{
+    background: url(./images/tom3.png);
+    background-size: cover;
+}
+.l{
+    background: url(./images/tom4.png);
+    background-size: cover;
+}
+.set{
+    margin-top: 100px;
+}
+.anime{
+    box-shadow: 0px 4px 5px 2px #dbedf3;/*x y smudge surroundingall*/
+    opacity: 0.5;
+}
+button{
+    display: inline-block;
+    height: 10rem;
+    width: 10rem;
+     margin: 10px;
+    border-radius: 30px;
+    color: blueviolet;
+    font-size: 3rem;
+    color: crimson;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 5px 1px #fff;
+    border: 10px solid wheat;
+
+}
+footer{
+    text-align: center;
+  color: #fff;
+  position: relative;
+  top: 100px;
+}
